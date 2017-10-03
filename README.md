@@ -1,6 +1,6 @@
 # SimpleStore
 Project for final exam in Aptech
-#Use 
+# Use 
 J2EE 
 JDBC
 JSTL
